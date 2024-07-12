@@ -1,7 +1,7 @@
 package main
 
 import (
-	"githugb/Uallessonivo/distributedFileStorage/p2p"
+	"github/Uallessonivo/distributedFileStorage/p2p"
 	"log"
 )
 
